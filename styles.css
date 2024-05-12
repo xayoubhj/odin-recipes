@@ -1,0 +1,11 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    background-color: pink;
+}
+li {
+    color: red;
+}
